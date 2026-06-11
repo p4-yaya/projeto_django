@@ -12,6 +12,11 @@ def index(request):
             "id": 2,
             "titulo": "jujuland",
             "tipo": "serie",
+        },
+        {
+            "id": 3,
+            "titulo": "shrek",
+            "tipo": "filme",
         }
 
     ]
